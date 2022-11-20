@@ -1,0 +1,23 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehrab-haque/web-scrapping-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehrab-haque/web-scrapping-node/issues"
+  },
+  "homepage": "https://github.com/mehrab-haque/web-scrapping-node#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
